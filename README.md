@@ -1,4 +1,4 @@
-# Ex. No. 1.-SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
+![image](https://github.com/ASHWINKUMAR2903/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119407186/d9465599-7e8c-47ee-9224-f88b95fff7d8)# Ex. No. 1.-SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
 ## DATE: 
 
@@ -53,10 +53,10 @@
 
 
 ## Output:
+![image](https://github.com/ASHWINKUMAR2903/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119407186/8ddd0f5b-852d-4f6c-8c14-72db4b9e59e9)
 
-
-### Name:
-### Register Number: 
+### Name: A.ASHWIN KUMAR
+### Register Number: 21222100006
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
